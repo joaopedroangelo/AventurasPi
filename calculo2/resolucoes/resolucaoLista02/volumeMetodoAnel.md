@@ -31,7 +31,7 @@ Geralmente usa duas curvas: O método do anel é usado quando duas curvas define
 > Determine a integral que calcula o volume deste sólido.
 
 Primeiro, vamos montar o gráfico:<br>
-![img01](https://github.com/joao-pedro-angelo/AventurasPi/blob/main/imgs/00000.png)
+![image](https://github.com/user-attachments/assets/199ef9a1-9dd2-4e26-9550-8a5e25fbd7da)
 
 **Agora, identifique os limites de integração:** <br>
 Basta fazer g(x) = f(x)<br>
@@ -44,7 +44,7 @@ Como podemos ver no gráfico, o raio externo é **-X + 3**;<br>
 O raio interno é **X² + 1**;<br>
 
 Assim, a integral que calcula o volume do sólido é:<br>
-![img02](https://github.com/joao-pedro-angelo/AventurasPi/blob/main/imgs/240801.png)
+![image](https://github.com/user-attachments/assets/cd9f8487-3ab3-42a2-b0d6-1b9f0c508ecc)
 
 ---
 ## Exemplo 2
@@ -53,17 +53,17 @@ Assim, a integral que calcula o volume do sólido é:<br>
 > Determine o volume do sólido.
 
 Montando o gráfico:<br>
-![img03](https://github.com/joao-pedro-angelo/AventurasPi/blob/main/imgs/240802.png)
+![image](https://github.com/user-attachments/assets/d5d64672-bee4-498e-8148-252ff8f67ce1)
 
 Encontrar qual o raio externo e o interno:<br> 
 > Observe que, dessa vez, a rotação é em torno do eixo Y, logo as funções devem estar em função do Y.<br>
 > Na imagem abaixo, é isso que está sendo feito. Pega a função que foi dada e isola o Y.<br>
 
-![img04](https://github.com/joao-pedro-angelo/AventurasPi/blob/main/imgs/240803.png)
-![img05](https://github.com/joao-pedro-angelo/AventurasPi/blob/main/imgs/240804.png)
+![image](https://github.com/user-attachments/assets/74a7a571-f0a6-44e5-98e4-1913d36114ef)
+![image](https://github.com/user-attachments/assets/809f826d-d870-4d43-a479-5d19638224fc)
 
 Limites de Integração:<br>
-![img06](https://github.com/joao-pedro-angelo/AventurasPi/blob/main/imgs/240805.png)
+![image](https://github.com/user-attachments/assets/d772ef8f-c887-4cea-988c-2a40c7407c2f)
 
 Montagem da Integral:<br>
-![img07](https://github.com/joao-pedro-angelo/AventurasPi/blob/main/imgs/240806.png)
+![image](https://github.com/user-attachments/assets/cdea52ff-04fb-40dc-8ae0-80a74ddff76e)
