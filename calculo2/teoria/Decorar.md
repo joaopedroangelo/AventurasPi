@@ -1,8 +1,8 @@
 # Fórmulas para Decorar
 
-![img01](https://github.com/joao-pedro-angelo/AventurasPi/blob/main/calculo2/teoria/decorarFormulas.jpg)
+![image](https://github.com/user-attachments/assets/f4445339-eeff-4333-8713-5f9d93cca83a)
 
 ---
 # Integrais para Decorar
 
-![img02](https://github.com/joao-pedro-angelo/AventurasPi/blob/main/calculo2/teoria/decorarIntegrais.jpg)
+![image](https://github.com/user-attachments/assets/a9fec228-63ff-4a70-8b11-7f76da8aadce)
