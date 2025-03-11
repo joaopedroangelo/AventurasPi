@@ -15,26 +15,26 @@ Para conseguir concluir as disciplinas de cálculo, é necessário conhecer ao m
 > O seno é o eixo y (vertical)<br>
 > O cosseno é o eixo x (horizontal)
 
-![img01](https://github.com/joao-pedro-angelo/AventurasPi/blob/main/imgs/01Trigonometria.png)<br>
-![img02](https://github.com/joao-pedro-angelo/AventurasPi/blob/main/imgs/02Trigonometria.png)
+![image](https://github.com/user-attachments/assets/6c687337-e3ea-40b3-94ba-5563656495fd)
+![image](https://github.com/user-attachments/assets/c31530cf-13af-45bc-b0d6-cc6486921dac)
 
 ---
 ## Ângulos Notáveis
 
-![img03](https://github.com/joao-pedro-angelo/AventurasPi/blob/main/imgs/03Trigonometria.png)
+![image](https://github.com/user-attachments/assets/4d04f48b-0113-469e-ab76-83a7032c5637)
 
 ---
 ## Gráfico função seno
 
-![img04](https://github.com/joao-pedro-angelo/AventurasPi/blob/main/imgs/04Trigonometria.png)
+![image](https://github.com/user-attachments/assets/f00cbd8d-1906-4c12-a7e3-6df0d0582af0)
 
 ---
 ## Gráfico função cosseno
 
-![img05](https://github.com/joao-pedro-angelo/AventurasPi/blob/main/imgs/05Trigonometria.png)
+![image](https://github.com/user-attachments/assets/c5f41886-c92d-450c-8c73-44d3562a4f60)
 
 ---
 ## Identidades Trigonométricas
 
-![img06](https://github.com/joao-pedro-angelo/AventurasPi/blob/main/imgs/identidadeTrigonometricaBasica.png)<br>
-![img07](https://github.com/joao-pedro-angelo/AventurasPi/blob/main/imgs/identidadeTrigonometrica.png)
+![image](https://github.com/user-attachments/assets/099f9fa1-e488-48cc-821a-57f5ccf24fda)
+![image](https://github.com/user-attachments/assets/969a98ee-8d5a-4432-a13c-f6ec7668d6ed)
