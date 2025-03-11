@@ -6,10 +6,10 @@
 1. **Aprimorar a Matemática Básica:** [Tópicos em álgebra](/algebra)
 2. **Trigonometria para Cálculo:** [Trigonometria](/trigonometria/trigonometriaParaCalculo.md)
 3. **Conheça o Gráfico das Principais Funções:** [Gráficos](/graficos/graficosFuncoes.md)
-4. **Cálculo 1:** [Cálculo 1](/calculo1)
-5. **Cálculo 2:** [Cálculo 2](/calculo2)
-6. **Álgebra Linear:** [Álgebra Linear](/linear)
-7. **Probabilidade:** [Probabilidade](/probabilidade)
+4. **Cálculo 1:** [Cálculo 1](/calculo1/README.md)
+5. **Cálculo 2:** [Cálculo 2](/calculo2/README.md)
+6. **Álgebra Linear:** [Álgebra Linear](/linear/README.md)
+7. **Probabilidade:** [Probabilidade](/probabilidade/README.md)
 
 ---
 ## Sobre Links Externos
