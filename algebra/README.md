@@ -17,4 +17,4 @@
 ---
 ## Exercícios
 
-1. [**Lista exercícios - Mat. Básica**](pdfs/matBasicaExerc.pdf)
+1. [**PDF - Lista exercícios - Mat. Básica**](pdfs/matBasicaExerc.pdf)
