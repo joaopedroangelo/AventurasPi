@@ -35,11 +35,11 @@ Pelo enunciado, sabemos que a seção transversal é um quadrado de lado X. Logo
 
 Como a pirâmide tem 3 metros de altura, podemos desenhá-la no plano cartesiano do X = 0 até o X = 3.<br>
 Sendo assim, os limites de integração são a = 0 e b = 3.<br>
-![img01](https://github.com/joao-pedro-angelo/AventurasPi/blob/main/imgs/220801.png)
+![image](https://github.com/user-attachments/assets/1576ca4b-ef1c-4bdd-84f4-fe22b59f3f13)
 
 
 Logo, a integral que resulta no volume desta pirâmide é:<br>
-![img02](https://github.com/joao-pedro-angelo/AventurasPi/blob/main/imgs/220802.png)
+![image](https://github.com/user-attachments/assets/fc9bf1df-a2a3-4b40-8b18-c1b606257faa)
 
 ---
 ### 2º Exemplo
@@ -48,13 +48,13 @@ Logo, a integral que resulta no volume desta pirâmide é:<br>
 > Encontre a integral que resulta no volume deste sólido.
 
 O esboço do sólido é o seguinte:<br>
-![img03](https://github.com/joao-pedro-angelo/AventurasPi/blob/main/imgs/220803.png)
+![image](https://github.com/user-attachments/assets/6cb6fec7-771d-4476-bdc1-a344d7a13b2f)
 
 As seções transversais são quadrados cujos lados são:<br>
-![img04](https://github.com/joao-pedro-angelo/AventurasPi/blob/main/imgs/230801.jpg)
+![image](https://github.com/user-attachments/assets/da92d48d-896d-4cbd-bddd-b78f545e4762)
 
 Logo, a integral que calcula o volume do sólido acima é:<br>
-![img05](https://github.com/joao-pedro-angelo/AventurasPi/blob/main/imgs/000.png)
+![image](https://github.com/user-attachments/assets/14ca772b-3ddd-4bf4-92d1-91ddfd45e5f5)
 
 ---
 ### 3º Exemplo
@@ -62,7 +62,7 @@ Logo, a integral que calcula o volume do sólido acima é:<br>
 > As Seções Transversais que cortam este sólido têm diametros que vão de Y = X² até Y = 2 - X².
 
 Esboce o sólido: <br>
-![img06](https://github.com/joao-pedro-angelo/AventurasPi/blob/main/imgs/220804.png)
+![image](https://github.com/user-attachments/assets/383f54c1-2876-4262-9133-c8ad50bdc9b8)
 
 **O que foi feito acima?**<br>
 Foi desenhada a curva Y = X² e a curva Y = 2 - X².<br>
@@ -75,7 +75,7 @@ Logo, o raio da seção transversal é 1 - X².<br>
 Sendo assim, a área da seção transversal é dada por πR² = π(1 - x²)²<br>
 
 Portanto, a fórmula que calcula o volume do sólido acima é:<br>
-![img07](https://github.com/joao-pedro-angelo/AventurasPi/blob/main/imgs/230805.png)
+![image](https://github.com/user-attachments/assets/bdcd562f-7074-4165-a108-9338acb51e37)
 
 ---
 ### 4º Exemplo
@@ -83,17 +83,17 @@ Portanto, a fórmula que calcula o volume do sólido acima é:<br>
 > As seções transversais são quadrados cujas bases se estendem do semi-círculo Y = -√(1 - x²) até Y = √(1 - x²).<br>
 
 Esboço do sólido: <br>
-![img08](https://github.com/joao-pedro-angelo/AventurasPi/blob/main/imgs/220805.png)
+![image](https://github.com/user-attachments/assets/cacf503b-1c13-4f3a-a639-6baf4332bc4a)
 
 **O que foi feito acima?**<br>
 Foi desenhado ambos os semi-círculos, formando uma circunferência situada entre X = -1 e X = 1.<br>
 Em seguida, foi encontrado o lado do quadrado que corta a circunferência.<br>
 
 Agora, sabendo que a área do quadrado é dada por **lado²**, temos que a área é:<br>
-![img09](https://github.com/joao-pedro-angelo/AventurasPi/blob/main/imgs/230803.jpg)
+![image](https://github.com/user-attachments/assets/adb5640a-8a43-4710-bc81-43a698a7315a)
 
 Sendo assim, a integral que calcula o volume do sólido deste exemplo é:<br>
-![img10](https://github.com/joao-pedro-angelo/AventurasPi/blob/main/imgs/230806.png)
+![image](https://github.com/user-attachments/assets/51f39524-71c1-480c-b4a2-6e875e98f044)
 
 ---
 ### 5º Exemplo
@@ -105,7 +105,7 @@ Porém, agora o problema nos diz que as **diagonais** dos quadrados que se esten
 Assim, precisamos saber que **Diagonal² = 2 * Lado²**.
 
 Logo, o valor abaixo, que antes era o lado do quadrado, agora é a diagonal do mesmo.<br>
-![img11](https://github.com/joao-pedro-angelo/AventurasPi/blob/main/imgs/230802.jpg)
+![image](https://github.com/user-attachments/assets/1aa0c181-7783-4f99-9dbd-16b9b4424f4b)
 
 Sabendo disso, você terá condições de resolver o problema 5
 
