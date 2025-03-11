@@ -15,8 +15,7 @@
 8. **[Limites infinitos](teoria/limitesInfinitos.md)**
 9. **[Assíntotas](teoria/assintotas.md)**
 10. **[Limites trigonométricos](teoria/limiteTrigonometrico.md)**
-11. **[Continuidade de um ponto](teoria/continuidade.md)**
-12. **[Teorema do valor intermediário](teoria/teoremaIntermediario.md)**
+
 
 ---
 ## Segundo estágio - Derivadas
