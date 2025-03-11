@@ -1,14 +1,5 @@
 # Integração Trigonométrica
 
-> Recomendo a leitura do seguinte material: [Integrais Trigonométricas](https://github.com/joao-pedro-angelo/AventurasPi/blob/main/integrais/pdfs/integracaoProdutoPotencia.pdf)
-
-> Sumário:
-> 1. Potências de Senos
-> 2. Potências de Cossenos
-> 3. Produto de Funções Trigonométricas
-> 4. Seno(mx) * Cosseno(nx)
-> 5. Secante e Tangente
-
 ---
 ## Integrais com Potências de Senos
 
@@ -26,7 +17,7 @@ Com essa propriedade, você obtém um seno elevado a um inteiro par e outro elev
 O seno que está elevado ao inteiro par, você vai substituir pela relação fundamental trigonométrica.<br>
 Agora, basta usar substituição simples, o seno que ficou sobrando fará parte do du.
 
-![img02](https://github.com/joao-pedro-angelo/AventurasPi/blob/main/imgs/seno02.png)
+![image](https://github.com/user-attachments/assets/efa89bf9-7cce-40c3-bb62-6661432e6ae5)
 
 ---
 ## Integrais com Potências de Cossenos
@@ -38,7 +29,7 @@ Agora, basta usar substituição simples, o seno que ficou sobrando fará parte 
 Para o cosseno elevado a um inteiro par, basta usar a relação abaixo:<br>
 **cos²x = (1 + cos2x)/2**
 
-![img01](https://github.com/joao-pedro-angelo/AventurasPi/blob/main/imgs/cosseno01.png)<br>
+![image](https://github.com/user-attachments/assets/70eaf3a8-09b1-44f2-b3d7-ab7ffd519dfe)
 
 #### Cosseno elevado a um inteiro ímpar
 
@@ -47,10 +38,10 @@ Com essa propriedade, você obtém um cosseno elevado a um inteiro par e outro e
 O cosseno que está elevado ao inteiro par, você vai substituir pela relação fundamental trigonométrica.<br>
 Agora, basta usar substituição simples, o cosseno que ficou sobrando fará parte do *du*.
 
-![img03](https://github.com/joao-pedro-angelo/AventurasPi/blob/main/imgs/cosseno03.png)<br>
-![img04](https://github.com/joao-pedro-angelo/AventurasPi/blob/main/imgs/cosseno04.png)<br>
-![img05](https://github.com/joao-pedro-angelo/AventurasPi/blob/main/imgs/cosseno05.png)<br>
-![img06](https://github.com/joao-pedro-angelo/AventurasPi/blob/main/imgs/cosseno06.png)<br>
+![image](https://github.com/user-attachments/assets/db175ddd-09c0-4cb8-827d-2a8ecf976f83)
+![image](https://github.com/user-attachments/assets/15f927ca-a824-4e92-be09-c5bd128b1133)
+![image](https://github.com/user-attachments/assets/7eec0304-d36a-4fa6-af01-e28371e65c19)
+![image](https://github.com/user-attachments/assets/a768b375-c2ae-42c3-aeba-3fc9d1aa0111)
 
 ---
 ## Produto de Funções Trigonométricas
@@ -77,15 +68,15 @@ Então o *u* seria o cosseno.
 
 #### Integral do tipo - Sen(Mx) * Cos(Nx)
 
-![img01](https://github.com/joao-pedro-angelo/AventurasPi/blob/main/imgs/integralEspecial01.png)
+![image](https://github.com/user-attachments/assets/b8271c5e-202c-48cb-a45e-9016ed1c53b2)
 
 #### Integral do tipo - Sen(Mx) * Sen(Nx)
 
-![img02](https://github.com/joao-pedro-angelo/AventurasPi/blob/main/imgs/integralEspecial02.png)
+![image](https://github.com/user-attachments/assets/c5329223-3d35-48f8-9139-9151f9a79c2e)
 
 #### Integral do tipo Cos(Mx) * Cos(Nx)
 
-![img03](https://github.com/joao-pedro-angelo/AventurasPi/blob/main/imgs/integralEspecial03.png)
+![image](https://github.com/user-attachments/assets/5f602330-1273-4484-80de-052fcd66683d)
 
 ---
 ## Secante e Tangente
