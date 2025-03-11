@@ -64,16 +64,16 @@ Como discutido anteriormente, as propriedades dos limites podem ser usadas para 
 ---
 ## Teorema do Confronto
 
-![img01](https://github.com/joao-pedro-angelo/AventurasPi/blob/main/imgs/TeoremaConfrontoSequencias.png)
+![image](https://github.com/user-attachments/assets/e811cb68-5cfb-4b21-aa2b-9754e8cbec1f)
 
-![img02](https://github.com/joao-pedro-angelo/AventurasPi/blob/main/imgs/MaisExemplosTeoremaConfrontoSeq.png)
+![image](https://github.com/user-attachments/assets/73945494-54be-4be8-8687-aac6a9037c03)
 
 ---
 ## Teorema da Função Contínua
 
-![img03](https://github.com/joao-pedro-angelo/AventurasPi/blob/main/imgs/teoremaDaFuncaoContinua.png)
+![image](https://github.com/user-attachments/assets/49624e20-7fc3-4828-a000-cba52673b453)
 
 ---
 ## Regra de L'Hospital
 
-![img04](https://github.com/joao-pedro-angelo/AventurasPi/blob/main/imgs/lhospitalEmSeq.png)
+![image](https://github.com/user-attachments/assets/751a9da7-57f0-4a82-b4b7-f5b288e0ac20)
