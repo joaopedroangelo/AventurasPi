@@ -10,25 +10,25 @@
 3. **[Operações com Matrizes](teoria/operacoesMatrizes.md)**
 4. **[Transposta, Simétrica e Antissimétrica](teoria/transpostaSimetricaAntissimetrica.md)**
 5. **[Forma Escada, Posto e Nulidade](teoria/formaEscadaPostoNulidade.md)**
-6. **[Inverter Matrizes](listas/matrizes_inversas.pdf)**
-7. **[Propriedades Matrizes](teoria/propriedadesMatrizes.pdf)**
-8. **[Sistemas Lineares e suas Soluções](teoria/SistemasLineares.pdf)**
-9. **[Determinantes](teoria/Determinantes.pdf)**
+6. **[PDF - Inverter Matrizes](listas/matrizes_inversas.pdf)**
+7. **[PDF - Propriedades Matrizes](teoria/propriedadesMatrizes.pdf)**
+8. **[PDF - Sistemas Lineares e suas Soluções](teoria/SistemasLineares.pdf)**
+9. **[PDF - Determinantes](teoria/Determinantes.pdf)**
 10. **[Propriedades dos Determinantes](teoria/PropriedadeDeterminantes.md)**
-11. **[Regra de Cramer](teoria/RegradeCramer.pdf)**
+11. **[PDF - Regra de Cramer](teoria/RegradeCramer.pdf)**
 
 ---
 ## 2º Estágio
 
-1. **[Espaços Vetoriais e suas Propriedades](teoria/espacosVetoriais.pdf)**
-2. **[Subespaços Vetoriais, União e Intersecção](teoria/Subespaços_Uniao_Interseccao.pdf)**
-3. **[Soma de Subespaços](teoria/somaDeSubespaços.pdf)**
-4. **[Combinação Linear de Vetores](teoria/CombinacaoLinearVetores.pdf)**
-5. **[Dependência e Independência Linear](teoria/DependenciaIndependenciaLinear.pdf)**
-6. **[Base e Dimensão de Espaços Vetoriais](teoria/BaseDimensao.pdf)**
-7. **[Mudança de Base](teoria/aula-6-Mudanc%CC%A7a%20de%20base.pdf)**
+1. **[PDF - Espaços Vetoriais e suas Propriedades](teoria/espacosVetoriais.pdf)**
+2. **[PDF - Subespaços Vetoriais, União e Intersecção](teoria/Subespaços_Uniao_Interseccao.pdf)**
+3. **[PDF - Soma de Subespaços](teoria/somaDeSubespaços.pdf)**
+4. **[PDF - Combinação Linear de Vetores](teoria/CombinacaoLinearVetores.pdf)**
+5. **[PDF - Dependência e Independência Linear](teoria/DependenciaIndependenciaLinear.pdf)**
+6. **[PDF - Base e Dimensão de Espaços Vetoriais](teoria/BaseDimensao.pdf)**
+7. **[PDF - Mudança de Base](teoria/aula-6-Mudanc%CC%A7a%20de%20base.pdf)**
 8. **[Passo a Passo Mudança de Base](teoria/PassosMudarBase.md)**
-9. **[Exemplos de Mudança de Base](teoria/exemplos_muda_base.pdf)**
+9. **[PDF - Exemplos de Mudança de Base](teoria/exemplos_muda_base.pdf)**
 10. **[Dicas para o Segundo Estágio](teoria/dicasSegundoEst.md)**
 
 ---
@@ -42,7 +42,7 @@
 6. **[Isomorfismo Inverso](teoria/isomorfismoInverso.md)**
 
 ---
-## Listas de Exercícios
+## Listas de Exercícios - PDF
 
 1. **[Lista - Matrizes](listas/linear1.pdf)**
 2. **[Lista - Sistemas Lineares](listas/linear2.pdf)**
@@ -56,7 +56,7 @@
 10. **[Prova 2º Estágio 2024.1](teoria/IMG_20240903_135151_737.jpg)**
 
 ---
-## Exercícios Resolvidos
+## Exercícios Resolvidos - MarkDown
 
 1. **[Resolução Lista - Matrizes](resolucoes/ResolucaoLista01/README.md)**
 2. **[Resolução Lista - Determinantes](resolucoes/ResolucaoLista03/README.md)**
