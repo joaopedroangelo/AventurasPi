@@ -1,3 +1,3 @@
-![img01](https://github.com/joao-pedro-angelo/AventurasPi/blob/main/imgs/SemLhospital.png)
+![image](https://github.com/user-attachments/assets/3dd6b503-1ac9-4c95-aaf5-8f3c4670c876)
 
-![img02](https://github.com/joao-pedro-angelo/AventurasPi/blob/main/imgs/LhospitalRule01.png)
+![image](https://github.com/user-attachments/assets/ef981aff-fcea-4978-b00b-b69797e7df07)
