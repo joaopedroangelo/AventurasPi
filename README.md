@@ -3,7 +3,7 @@
 ---
 ## Guia
 
-1. **Aprimorar a Matemática Básica:** [Tópicos em álgebra](/algebra)
+1. **Aprimorar a Matemática Básica:** [Tópicos em álgebra](/algebra/README.md)
 2. **Trigonometria para Cálculo:** [Trigonometria](/trigonometria/trigonometriaParaCalculo.md)
 3. **Conheça o Gráfico das Principais Funções:** [Gráficos](/graficos/graficosFuncoes.md)
 4. **Cálculo 1:** [Cálculo 1](/calculo1/README.md)
