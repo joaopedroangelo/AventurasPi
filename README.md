@@ -21,3 +21,8 @@ Quando uma palavra destacada for um link externo, uma indicação será mostrada
 Exemplo: **[Vídeo - ...]** **[Playlist - ...]**
 
 Caso não tenha essa indicação, o redirecionamento será para um arquivo *md* ou *pdf* presente no próprio repositório.
+
+---
+## Sobre Imagens
+
+Se alguma imagem não carregar, basta visualizar no repositório do github. 

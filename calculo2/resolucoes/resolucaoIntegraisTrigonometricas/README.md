@@ -3,7 +3,7 @@
 ### a) ∫ sen x dx
 ### b) ∫ cos x dx
 ### c) ∫ sen x * cos x dx
-![img01](imgs/01.jpg)<br>
+![image](https://github.com/user-attachments/assets/0a51b19a-a01c-4e1e-9819-d4ce0bf37779)
 
 ---
 ### d) ∫ sen²x dx
@@ -11,15 +11,15 @@
 
 ---
 ### e) ∫ cos²x dx
-![img03](imgs/03.jpg)<br>
+![image](https://github.com/user-attachments/assets/74023fed-e666-40f4-b5cb-c3045d63e128)
 
 ---
 ### f) ∫ sen²x * cos x dx
-![img04](imgs/04.jpg)<br>
+![image](https://github.com/user-attachments/assets/2112b699-ad49-4164-b1fc-0a19b4ae49b5)
 
 ---
 ### g) ∫ sen x * cos²x dx
-![img05](imgs/05.jpg)<br>
+![image](https://github.com/user-attachments/assets/44904a56-b1ec-49c1-b37c-c52a9e6a6672)
 
 ---
 ### h) ∫ sen²x * cos²x dx
