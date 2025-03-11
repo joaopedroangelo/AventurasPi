@@ -34,14 +34,14 @@ A área de um disco é calculada da mesma forma que a **circunferência**: πr²
 > Determine a integral que calcula o volume deste sólido.
 
 Primeiramente, monte o gráfico.<br>
-![img01](https://github.com/joao-pedro-angelo/AventurasPi/blob/main/imgs/graficoQuestao01.png)
+![image](https://github.com/user-attachments/assets/4f37c037-3f38-4d02-b2ef-844fb29c6e1e)
 
 Como a função foi girada em torno do eixo X = 0, então o raio será a própria função √x.<br>
 A área do disco será π * (√x)².<br>
 Os limites de integração estão bem definidos, x = 0 até x = 4.
 
 Logo, a integral que calcula o volume do sólido acima é:<br>
-![img02](https://github.com/joao-pedro-angelo/AventurasPi/blob/main/imgs/integralQuestao01Disco.png)
+![image](https://github.com/user-attachments/assets/8d4ccb12-1d57-496e-bee6-9c0135e5b6e3)
 
 ---
 ## Exemplo - Curva rotacionada em torno do eixo Y
@@ -61,8 +61,8 @@ O limite de integração é Y = 1 e Y = 4.
 
 Assim, temos o seguinte gráfico e a seguinte integral:
 
-![img05](https://github.com/joao-pedro-angelo/AventurasPi/blob/main/imgs/GraficoDesafio03.png)
-![img06](https://github.com/joao-pedro-angelo/AventurasPi/blob/main/imgs/IntegralDesafio03.png)
+![image](https://github.com/user-attachments/assets/6d9e9a14-c4eb-4011-8649-c1d6d865bebb)
+![image](https://github.com/user-attachments/assets/d25d9b20-a6c9-49ec-b50f-5822f05e903a)
 
 ---
 ## Exemplo - Curva rotacionada em torno de uma reta vertical
@@ -84,7 +84,7 @@ Substitua na função dada (X = Y² + 1), o valor da reta vertical (X = 3).<br>
 Y = +√2 ou -√2
 
 Portanto, temos a seguinte integral:<br>
-![img07](https://github.com/joao-pedro-angelo/AventurasPi/blob/main/imgs/00000000000000000000.png)
+![image](https://github.com/user-attachments/assets/5f16b57d-327e-4f16-b39a-6b53b3607c3b)
 
 ---
 ## Exemplo - Curva rotacionada em torno de uma reta horizontal
@@ -95,7 +95,7 @@ Observe que, dessa vez, a rotação é em torno da reta horizontal Y = 1.<br>
 Sabendo que a função dada é √x, qual o valor de X para Y ser 1?<br> É 1, pois √1 = 1.<br>
 
 Desse modo, temos o seguinte gráfico:<br>
-![img03](https://github.com/joao-pedro-angelo/AventurasPi/blob/main/imgs/graficoQuestao02.png)
+![image](https://github.com/user-attachments/assets/dc31076c-a5c6-4a1e-8f39-88637b9e1771)
 
 O raio do disco será a própria função, subtraída de 1 unidade, pois o sólido começa a girar em X = 1.<br>
 Logo, o raio será √x - 1<br>
@@ -103,5 +103,5 @@ Assim, a área do disco será dada por: π * (√x - 1)²
 
 Os limites de integração serão: x = 1 e x = 4.<br>
 Logo, a integral que calcula o volume do sólido é:<br>
-![img04](https://github.com/joao-pedro-angelo/AventurasPi/blob/main/imgs/00.png)
+![image](https://github.com/user-attachments/assets/6b4636cf-b8a7-4e7c-8ae4-80d61bb6c109)
 

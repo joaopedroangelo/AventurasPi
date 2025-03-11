@@ -3,7 +3,7 @@
 ---
 ## Integrais com Potências de Senos
 
-> Vídeo: https://youtu.be/FtJGJmKTkrI
+> Vídeo: [youtube](https://youtu.be/FtJGJmKTkrI)
 
 #### Seno elevado a um inteiro par
 
@@ -22,7 +22,7 @@ Agora, basta usar substituição simples, o seno que ficou sobrando fará parte 
 ---
 ## Integrais com Potências de Cossenos
 
-> Vídeo: https://youtu.be/FtJGJmKTkrI<br>
+> Vídeo: [youtube](https://youtu.be/FtJGJmKTkrI)<br>
 
 #### Cosseno elevado a um inteiro par
 

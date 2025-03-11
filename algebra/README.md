@@ -1,6 +1,6 @@
 # Tópicos em Álgebra
 
-> Playlist recomendada: https://www.youtube.com/playlist?list=PLEfwqyY2ox858I4pyFQas8vqz4Vc7eTju
+> Playlist recomendada: [youtube](https://www.youtube.com/playlist?list=PLEfwqyY2ox858I4pyFQas8vqz4Vc7eTju)
 
 ---
 ## Teoria
