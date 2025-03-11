@@ -1,6 +1,6 @@
 # Cálculo 1
 
-> Playlist recomendada: https://www.youtube.com/playlist?list=PLTPg64KdGgYhACfQUtMf3CuhWOfLoTf_a
+> Playlist recomendada: [youtube](https://www.youtube.com/playlist?list=PLTPg64KdGgYhACfQUtMf3CuhWOfLoTf_a)
 
 ---
 ## Primeiro estágio - Limites e Continuidade
