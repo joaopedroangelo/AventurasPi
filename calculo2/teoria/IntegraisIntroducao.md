@@ -5,14 +5,14 @@ Integrais são usadas para calcular a área delimitada por funções.
 ---
 ## Forma de uma integral
 
-![integralForma](https://github.com/joao-pedro-angelo/AventurasPi/blob/main/imgs/IntegralForma.png)
+![image](https://github.com/user-attachments/assets/4991e02d-349e-49bc-ace3-26d996a673ab)
 
 Acima, temos a integral de "a" até "b" da função f(x) em relação a "x"
 
 ---
 ## Limites de integração
 
-![limitesIntegracao](https://github.com/joao-pedro-angelo/AventurasPi/blob/main/imgs/limitesIntegracao.png)
+![image](https://github.com/user-attachments/assets/10209473-cd14-41a4-8849-ac2d72b3374f)
 
 Os limites de integração delimitam um intervalo fechado do limite inferior até o superior, que determinam 
 a variação de X no cálculo da área delimitada pela função.
