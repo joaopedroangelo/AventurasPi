@@ -1,4 +1,4 @@
-![sinalDaIntegral](https://github.com/joao-pedro-angelo/AventurasPi/blob/main/imgs/SinalDaIntegral.png)
+![image](https://github.com/user-attachments/assets/f684720d-4a31-443f-bb81-3de2d3b38035)
 
 Se precisar que o resultado de uma integral troque de sinal, basta multiplicar por -1.
 
