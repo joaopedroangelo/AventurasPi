@@ -14,7 +14,7 @@ Onde `n` é o índice da raiz, `a` é o radicando e `b` é a raiz.
 
 ## Propriedades
 
-![propriedades](https://github.com/joao-pedro-angelo/AventurasPi/blob/main/imgs/radicia%C3%A7%C3%A3oProps.png)
-![expoenteFrac](https://github.com/joao-pedro-angelo/AventurasPi/blob/main/imgs/expoenteFracion%C3%A1rio.png)
+![image](https://github.com/user-attachments/assets/bb54acf5-8a26-43f3-86b9-d2ddb68233ef)
+![image](https://github.com/user-attachments/assets/3303280b-76d1-4fc8-84ac-536fb47a7f4b)
 
 > Atenção: Quando o radicando for negativo, o índice da raiz terá que ser ímpar. Caso contrário, não encontraremos raízes reais.
