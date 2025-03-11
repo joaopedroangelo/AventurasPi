@@ -1,6 +1,6 @@
 # Propriedades
 
-![propriedadesIMG](https://github.com/joao-pedro-angelo/AventurasPi/blob/main/imgs/propriedadesLimitesIMG.png)
+![image](https://github.com/user-attachments/assets/3ae6dcfd-760d-4711-a08c-124839f7e68c)
 
 ---
 ## Limites por substituição
