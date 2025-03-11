@@ -6,7 +6,7 @@
 ---
 ## Site da Disciplina
 
-**Link:** https://sites.google.com/uaest.ufcg.edu.br/probabilidade/
+**Link:** [https://sites.google.com/uaest.ufcg.edu.br/probabilidade/](https://sites.google.com/uaest.ufcg.edu.br/probabilidade/)
 
 ---
 ## Regra Arredondamento ABNT
