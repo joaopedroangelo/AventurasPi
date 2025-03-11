@@ -1,15 +1,15 @@
 # Limites Infinitos
 
 ### Limite infinito positivo
-![img01](https://github.com/joao-pedro-angelo/AventurasPi/blob/main/imgs/limiteInfinitoPositivo.png)
+![image](https://github.com/user-attachments/assets/afaec7fa-8817-4574-b736-3c0d40ebb1c9)
 
 
 ### Limite infinito negativo
-![img02](https://github.com/joao-pedro-angelo/AventurasPi/blob/main/imgs/limiteInfinitoNegativo.png)
+![image](https://github.com/user-attachments/assets/86fce0fa-0873-43e4-b964-39954e893160)
 
 
 ### Teoremas
-![img03](https://github.com/joao-pedro-angelo/AventurasPi/blob/main/imgs/teoremaLimiteInfinito.png)
+![image](https://github.com/user-attachments/assets/50ed9afc-a617-4411-84ca-b0f49b6a03d8)
 
 ```i) 1/0⁺^n, resulta em + infinito```
 
