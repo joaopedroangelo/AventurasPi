@@ -9,12 +9,12 @@ Lembre-se que, não importa o valor exato de ```f(x)```, mas sim o comportamento
 ---
 ### Observe os exemplos
 
-![img01](https://github.com/joao-pedro-angelo/AventurasPi/blob/main/imgs/limiteImg01.png)
+![image](https://github.com/user-attachments/assets/f8536ef7-942e-4e0e-aadc-f33f1f82f354)
 
 No exemplo acima, ```f(a)⁻ = L``` e ```f(a)⁺ = L```, logo, limite de ```f(x)``` quando x tende a 'a', é L.
 
 ---
-![img02](https://github.com/joao-pedro-angelo/AventurasPi/blob/main/imgs/limiteImg02.png)
+![image](https://github.com/user-attachments/assets/7f3a13c7-d069-459a-a150-15a32f325d94)
 
 O exemplo acima é o mesmo, com uma única diferença.<br>
 Embora ```f(a)⁻ = L``` e ```f(a)⁺ = L```, o valor de ```f(a) != L```.
@@ -23,7 +23,7 @@ Porém, não nos interessa o valor exato de ```f(a)```, mas sim o comportamento 
 Logo, o valor do limite desta função, quando x tende a 'a', continua sendo L.
 
 ---
-![img02](https://github.com/joao-pedro-angelo/AventurasPi/blob/main/imgs/limiteImg03.png)
+![image](https://github.com/user-attachments/assets/f241d3c2-57ba-462f-969e-23e1752b17b0)
 
 Acima, temos um típico exercício de limites.
 
