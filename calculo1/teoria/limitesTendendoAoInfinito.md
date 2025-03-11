@@ -1,6 +1,6 @@
 # Limites Tendendo ao Infinito
 
-![img](https://github.com/joao-pedro-angelo/AventurasPi/blob/main/imgs/limitesTendendoAoInfinitoIMG.png)
+![image](https://github.com/user-attachments/assets/fcd2e06f-c2fa-4fb0-8aaf-c9e61fef609a)
 
 Cada vez que X se aproxima do + infinito ou - infinito, o resultado de f(x) se aproxima do valor +2 ou -2.<br>
 Isso implica na não existe do limite tendendo ao infinito, mas existem os limites laterais separadamente.

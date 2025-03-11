@@ -18,7 +18,7 @@ Alguns exercícios típicos deste tópico:
 ---
 ### Exemplo
 
-![exemplo](https://github.com/joao-pedro-angelo/AventurasPi/blob/main/imgs/limitesLateraisEx.png)
+![image](https://github.com/user-attachments/assets/7aeabcaf-bc8b-4161-b24d-1372a3886241)
 
 No exemplo acima, os limites laterais foram diferentes, então não há o limite.
 
