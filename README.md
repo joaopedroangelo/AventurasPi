@@ -1,5 +1,8 @@
 > Para quem está no github, acesse: https://joaopedroangelo.github.io/AventurasPi/
 
+> O que não estiver marcado com PDF, Vídeo, Playlist... então é um Markdown!<br>
+> Logo, você pode abrir sem precisar baixar nada e nem sair do site.
+
 ---
 ## Guia
 
